@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+}
+header {
+    text-align: right;
+    margin: 15px 25px 0 0;
+    font-size: 13px;
+    font-family:arial, sans-serif;
+    padding-right: 10px;
+}
+.apps {
+background-image: url('//ssl.gstatic.com/gb/images/i2_2ec824b0.png');
+background-position-x:-130px;
+background-position-y:-40px;
+background-size:530px 70px;
+display:inline-block;
+height:30px;
+opacity:0.5;
+vertical-align:middle;
+width: 30px;
+padding-right: 10px;
+}
+
+
+main {
+    text-align: center;
+    font-family:arial, sans-serif;
+    font-size: 14px;
+    
+}
+.google {
+    margin-top: 150px;
+}
+
+#search {
+    
+    margin: 0 0 20px 0;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    width: 570px;
+    height: 45px;
+}
+
+p {
+    margin-top: 30px;
+    font-size: 13px;
+}
+
+.privacy {
+    margin-left: 1090px;
+    color:rgba(0, 0, 0, 0.54); 
+    padding-right: 15px;
+    font-family:arial, sans-serif;
+    font-size: 14px;
+    line-height: 5px;
+    text-decoration-line: none;
+}
+
+.uganda {
+    padding: 15px 0 15px 30px;
+    border-width: 1px;
+    margin: 312px 0 0 0;
+    background-color: rgb(243, 240, 240);
+    border-style: solid;
+    border-color: lightgray;
+    color:rgba(0, 0, 0, 0.54);
+    font-family:arial, sans-serif;
+    font-size: 14px;
+    line-height: 5px;
+
+}
+
+.footer1 {
+    padding: 15px 15px 15px 30px;
+    background-color: rgb(243, 240, 240);
+    position: fixed;
+}
+
+.links {
+    padding-right: 15px;
+    text-decoration-line: none;
+    color:rgba(0, 0, 0, 0.54);
+    font-family:arial, sans-serif;
+    font-size: 14px;
+    line-height: 5px;
+}
+
+
+a {
+    text-decoration-line: none;
+}
+
+.languages {
+    padding-right: 5px;
+}
+
+#search2 {
+    margin-right: 10px;
+    width: 120px;
+    height: 36px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+#feel {
+    width: 140px;
+    height: 36px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+#button {
+    height: 30px;
+    background-color: rgb(66, 133, 244);
+    border-style: none;
+    width: 70px;
+    border-radius: 2px;
+    cursor: default;
+}
+
+.languages:hover {
+    text-decoration-line: underline;
+}
+
+.privacy:hover {
+    text-decoration-line: underline;
+}
+
+.links:hover {
+    text-decoration-line: underline;
+}
+
+.email {
+    color: rgba(0, 0, 0, 0.87); 
+    padding-right: 10px;
+}
+
+.email:hover {
+    text-decoration-line: underline;
+    color:rgba(0, 0, 0, 0.54);
+}
+
+#feel:hover {
+    
+    border-color: lightgray;
+    border-width: 1px;
+    border-style: solid;
+    
+}
+
+#search2:hover {
+    
+    border-color: lightgray;
+    border-width: 1px;
+    border-style: solid;
+}
+
